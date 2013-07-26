@@ -52,3 +52,15 @@ a:hover{color:#000000}
 .footer a{color:#0d0c0d}
 .footer  a:hover{color:#95524e}
 .Fo1{font-size:8pt;text-align:center;padding:77 20 7 20;color:#0d0c0d}
+div.b{
+	float:inherit;
+	width:200px;
+	height:200px;
+	border:2px solid #000;
+}
+.pging {    direction:rtl;    font-size:1.2em;    height:30px;    margin:40px 0 0;    color:#777777;    padding-bottom: 20px;    text-align: center;}
+.pging a:link, .pging a:visited {border:1px solid #777777;    display:inline-block;    margin:0 3px;    padding:1px 5px;    text-decoration:none;}
+.pging a:hover, .pging a:active {    color:#777777;}.pging a.current:link, .pging a.current:visited {    background-color:#777777;    border:1px solid #777777;    color:red;    cursor:text;}
+.TopPostnew{width:530;height:80;background:url('http://github.com/Asal-GHafari/image-for-site-/blob/master/pic/post1.gif') no-repeat top right;font-size:8pt;}
+.TopPost2new{padding:25 45 4 10;}
+.Post-titlenew{padding-bottom:19;font-weight:bold}

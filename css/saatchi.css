@@ -1,0 +1,54 @@
+body{margin:0;font-family: Tahoma;background:#e5b154 }
+.Pichak{width:100%;float:right;direction:rtl;}
+#main-back{float:right;width:100%;background:#fcfcf4}
+a{TEXT-DECORATION: none;color:#000000}
+a:hover{color:#000000}
+
+#header{background:#fcfcf4 url(header.jpg) no-repeat top right;height:400;width:100%;color:#898989;font-size:8pt;text-align:right}
+#header a{color:#252c30;margin:0 16;text-shadow: #777777 -1px 0px 4px;font-weight:bold;}
+#header a:hover{color:#95524e}
+
+.Sid{padding:0 15 0 0;}
+.main{padding:0 0 0 0;}
+
+.top-BlogTitle{width:100%;height:40}
+.top-menu{width:100%;height:330;}
+
+.top-menu2{padding:0 20;}
+
+.BlogTitle{color:#252c30;text-align:right;font-size:19pt;font-weight:bold;padding:0 20 0 0;font-family:Times New Roman;}
+.Description{direction:rtl;font-size:9pt;color:#252c30;text-align:right;padding:10 20 0 0;}
+
+.post{float:right;direction:rtl;text-align:right;width:540;overflow:hidden}
+.TopPost{width:530;height:80;background:url('post1.gif') no-repeat top right;font-size:8pt;}
+.TopPost a{color:#2a2322}
+.TopPost2{padding:25 45 4 10;}
+.CenterPost{padding:10 15 5 15;background:url('post2.gif') repeat-y right;margin:0 0}
+.LowPost{width:530;height:80;background:url('post3.gif') no-repeat top right;font-size:8pt;}
+.date{text-align:right;color:#777777;float:right;width:435}
+.date div{padding:25 55 0 0;}
+.Comment{padding:44 58 0 0;text-align:right;font-size:8pt;width:100%;color:#464a4c}
+.Comment a{color:#292929}
+.Comment a:hover{color:#95524e}
+
+.Post-title{padding-bottom:19;font-weight:bold}
+.t-date{font-size:8pt;color:#3c3c3c;width:520;height:19;padding-right:73}
+
+.C-post{font-size:8pt;color:#333333;width:530;overflow:hidden}
+.C-post a{color:#95524e}
+
+#Sidebar{float:right;direction:rtl;text-align:right;width:220;overflow:hidden}
+
+.TopSid{width:210;height:69;background:url('sid1.gif') no-repeat top right;font-size:8pt;color:#2a2322;font-weight:bold;}
+.TopSid2{padding:28 70 0 0;text-align:right}
+.CenterSid{width:210;font-size:8pt;color:#444444;background:url('sid2.gif') repeat-y top right;padding:2 0}
+.CenterSid a{color:#444444;}
+.CenterSid a:hover{color:#95524e}
+.li-Sid{padding:1 20 5 5;background:url('li.png') 194px 5px no-repeat;}
+.About{padding:0 15 0 15;color:#555555;line-height:120%}
+.LowSid{width:210;height:20;background:url('sid3.gif') no-repeat top right;}
+
+.footer{width:1000;float:right;background: url('footer.gif') no-repeat top right;height:135;direction:rtl;}
+.footer a{color:#0d0c0d}
+.footer  a:hover{color:#95524e}
+.Fo1{font-size:8pt;text-align:center;padding:77 20 7 20;color:#0d0c0d}
